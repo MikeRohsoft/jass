@@ -1,0 +1,18 @@
+{
+  "name": "jass",
+  "version": "1.0.0",
+  "description": "just another synchrone sequencer",
+  "main": "jass",
+  "dependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "scripts": {
+    "test": "jasmine ./*.spec.js"
+  },
+  "author": "Mike",
+  "license": "MIT"
+}
